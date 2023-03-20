@@ -33,3 +33,12 @@
 .result-block-container .result-block {
   opacity: 1;
 }
+
+.logo{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_VIVO.svg");
+  width: 7.25rem;
+  height: 2.25rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
